@@ -18,14 +18,7 @@
   <a href="https://www.linkedin.com/in/lucas-da-silva-12154a240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   <hr>
- 
- <div>
-<div align="center">
-  <a href="https://github.com/LucasdaSilvaOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasdaSilvaOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasdaSilvaOliveira&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- </div>
+
   
  
   <h2 align="center">

@@ -1,8 +1,7 @@
 <div align="center">
 <h1>Bem-vindo ao meu perfil!😁👋</h1>
 
-<p>🔭 Desenvolvedor Front-end</p>
-<p>🌱 Objetivo: Desenvolvedor Fullstack</p>
+<p>🔭 Desenvolvedor Fullstack</p>
 <p>📚 Cursando Análise e Desenvolvimento de Sistemas</p>
 </div>
 

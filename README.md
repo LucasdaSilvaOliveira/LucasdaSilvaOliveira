@@ -2,7 +2,7 @@
 <h1>Bem-vindo ao meu perfil!😁👋</h1>
 
 <p>🔭 Desenvolvedor Full Stack</p>
-<p>📚 Cursando Análise e Desenvolvimento de Sistemas</p>
+<p>📚 Formado em Análise e Desenvolvimento de Sistemas</p>
 </div>
 
 <hr>
